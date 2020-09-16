@@ -10,7 +10,7 @@
     background-color: #ffffff;
     padding: 20px 30px;
     border: solid 3px #339999;
-    border-radius: 10px;
+    border-radius: 5px;
     position: fixed;;
     z-index: 9999999;
     bottom: 0;
@@ -31,7 +31,7 @@
 }       
 .cookie_btn{
     border: solid 3px #339999;
-    border-radius: 14px;
+    border-radius: 10px;
     padding: 5px 10px;
     color: #000000;
     text-decoration: none;

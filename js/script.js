@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ));
             return matches ? decodeURIComponent(matches[1]) : undefined;
         }
+        
         let cookiecook = getCookie("cookiecook"),
         cookiewin = document.getElementsByClassName('cookie_notice')[0];    
         // проверяем, есть ли у нас cookie, с которой мы не показываем окно и если нет, запускаем показ
